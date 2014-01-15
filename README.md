@@ -1,0 +1,1 @@
+My solutions to [CodeEval](https://www.codeeval.com) coding challenges.  Enjoy!
